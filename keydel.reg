@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{A63E645F-13BD-45ED-B15F-6E8C1BD57279}]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{c9c42510-9b21-41c1-9dcd-8382a2d07c61}]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{ce8e087a-581b-467e-992d-deff9fe16df7}]
+[-HKEY_CLASSES_ROOT\CLSID\{A63E645F-13BD-45ED-B15F-6E8C1BD57279}]
+[-HKEY_CLASSES_ROOT\CLSID\{c9c42510-9b21-41c1-9dcd-8382a2d07c61}]
+[-HKEY_CLASSES_ROOT\CLSID\{ce8e087a-581b-467e-992d-deff9fe16df7}]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Ext\Stats\{c9c42510-9b21-41c1-9dcd-8382a2d07c61}
